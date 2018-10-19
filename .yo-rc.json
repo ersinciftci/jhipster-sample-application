@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "MTlkNDUwYzU5MGZiMmU2YzMzODBlN2M1ODE0NDMwZTQzMmI4YTc5OWZiZTUwZjk3OTc0MTdhN2NkYTUyMTVhYjIyNTkzM2Y1NDNlNjIwNTlmMzc3NzA0MzY0ZTU4ZTFhYjljOGY1NmE0NzdhYTk5ZTJkYWM4NTY1N2VjNDEwMmE="
+  },
+  "git-provider": "GitHub",
+  "git-company": "ersinciftci",
+  "repository-name": "jhipster-sample-application"
+}
